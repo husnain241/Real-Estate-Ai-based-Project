@@ -217,8 +217,8 @@ Distributed under the MIT License. See [`LICENSE.txt`](./LICENSE.txt) for detail
 ## 📬 Contact
 
 **Raja Hassan**
-📧 Email: [rajahassan38201@gmail.com](mailto:rajahassan38201@gmail.com)
-🌐 GitHub: [rajahassan38201](https://github.com/rajahassan38201)
+📧 Email: [alihusnaintcf970@gmail.com](mailto:alihusnaintcf970@gmail.com)
+🌐 GitHub: [husnain241](https://github.com/husnain241)
 
 ---
 
